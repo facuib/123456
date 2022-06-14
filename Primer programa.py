@@ -7,3 +7,4 @@ def ingresovalores ():
   nro2=int(input("Ingrese otro valor entero: "))
   print("Los numeros ingresados son: ",nro1,'y',nro2,'.')
 ingresovalores()
+
